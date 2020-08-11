@@ -1,9 +1,15 @@
 import React from 'react';
+
+// styling
 import './App.css';
 
-function App() {
+// components 
+import RecipeContainer from './recipe-container/RecipeContainer';
+
+const App = () => {
   return (
     <div className="App">
+      <RecipeContainer/>
 
     </div>
   );
