@@ -18,21 +18,16 @@
     align-items: center;
     justify-content: space-evenly;
 
-    text-align: center;
     font-weight: bold;
 }
 
 .RecipeList{
     width: 20%;    
     background-color: #D5F2E3;
-    font-size: 30px;
-
-
 }
 
 .Recipe{
     width: 40%;
     background-color: #D5F2E3;
-    font-size: 30px;
-
+    text-indent: 4em;
 }
